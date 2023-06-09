@@ -1,0 +1,25 @@
+.navbar {
+    padding-bottom: 0;
+}
+
+.navbar-collapse {
+    margin: 0 -15px 0 -15px ;
+}
+
+@media (min-width:767px) and (max-width:992px) {
+   #chiken,#beef {
+    width: 50%;
+   }
+   #sushi {
+    width: 100%;
+   }
+    
+}
+@media (min-width:992px) {
+   
+    
+}
+
+@media (max-width:767px) {
+  
+}
